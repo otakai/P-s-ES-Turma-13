@@ -6,4 +6,5 @@ Link para os repositórios dos grupos de alunos de Pós-Graduação em Engenhari
 * [Grupo 3](https://github.com/impacta-es13-gcm-grupo03/impacta-es13-gcm-grupo03.github.io/tree/master/Requisitos)
 * [Grupo 4](https://github.com/CidaTorres/Entregaveis_Engenharia_Software)
 * [Grupo 5](https://impacta-es13-gcm-grupo05.github.io/)
+ * Outro link: do [Grupo 5](https://github.com/impacta-es13-gcm-grupo05/impacta-es13-gcm-grupo05.github.io)
 
